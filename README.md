@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Achal 👋
 
-<!--
-**achal-sharma01/Achal-sharma01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MIS & Reporting | Data Analytics | Business Analysis
 
-Here are some ideas to get you started:
+I turn scattered spreadsheets and manual processes into reliable reporting systems that leadership can actually use. During my internship, I independently built an Executive MIS platform used daily by a Director to track operations across a manufacturing plant.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work with:**
+Advanced Excel • Google Sheets • SQL • Python • Power BI • Looker Studio • Google Apps Script
+
+**Featured Projects**
+- 📊 [Executive MIS Reporting Platform](https://github.com/achal-sharma01/Executive-MIS-Reporting-Platform) — Built a full MIS reporting system from a single day-one brief, replacing scattered spreadsheets with one unified dashboard.
+- 🛍️ [Customer Shopping Behavior Analysis](https://github.com/achal-sharma01/customer-shopping-behavior-analysis) — Analyzed 3,900+ transactions using Python, SQL, and Power BI to uncover revenue drivers and customer segments.
+
+**Let's connect**
+[LinkedIn](https://linkedin.com/in/achal-sharma-89063336a) · achalsharma.email@gmail.com
